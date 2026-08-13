@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Backend-UC12-Conrads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+108b7995c59e03fa4d7a74bb7e8fbef3f5cdca66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbad272adc4f9744bccd4e307b6ba7879dc9eddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Backend-UC12-Conrads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Backend-UC12-Conrads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
